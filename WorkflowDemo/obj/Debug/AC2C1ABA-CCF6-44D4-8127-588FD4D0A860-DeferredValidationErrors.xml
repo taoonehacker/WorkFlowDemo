@@ -1,0 +1,3 @@
+<ArrayOfValidationBuildExtension.Violation xmlns="http://schemas.datacontract.org/2004/07/Microsoft.Activities.Build.Validation" xmlns:i="http://www.w3.org/2001/XMLSchema-instance"><ValidationBuildExtension.Violation><EndColumnNumber>1</EndColumnNumber><EndLineNumber>1</EndLineNumber><FileName>Workflows\test.xaml</FileName><IsWarning>false</IsWarning><Message>Compiler error(s) encountered processing expression "数字".&#xD;
+'数字' is not declared. It may be inaccessible due to its protection level.&#xD;
+</Message><StartColumnNumber>1</StartColumnNumber><StartLineNumber>1</StartLineNumber></ValidationBuildExtension.Violation></ArrayOfValidationBuildExtension.Violation>

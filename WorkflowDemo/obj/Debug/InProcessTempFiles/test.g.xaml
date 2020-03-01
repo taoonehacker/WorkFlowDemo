@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<local:Test xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:local="clr-namespace:;assembly=WorkflowDemo" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <local:Test.Implementation>
+    <Sequence>
+      <WriteLine Text="[数字]" />
+    </Sequence>
+  </local:Test.Implementation>
+</local:Test>

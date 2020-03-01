@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="utf-8"?><Activity x:TypeArguments="x:Int32" x:Class="Test" xmlns="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"><Sequence><WriteLine Text="[请输入1数字]" /></Sequence></Activity>

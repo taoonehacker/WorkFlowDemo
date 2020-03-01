@@ -1,0 +1,7 @@
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\obj\Debug\WorkflowDemo.csprojAssemblyReference.cache
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\bin\Debug\WorkflowDemo.exe.config
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\bin\Debug\WorkflowDemo.exe
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\bin\Debug\WorkflowDemo.pdb
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\obj\Debug\WorkflowDemo.exe
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\obj\Debug\WorkflowDemo.pdb
+C:\Projects\Workspaces\CSharp\WorkflowDemo\WorkflowDemo\obj\Debug\AC2C1ABA-CCF6-44D4-8127-588FD4D0A860-DeferredValidationErrors.xml
